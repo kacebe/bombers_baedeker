@@ -1,1 +1,6 @@
-
+# 6 lines comment #######################################################################################################################################
+# CSV-file forked from https://github.com/ieg-dhr/bombers_baedeker/blob/d635654323c99c4540b390c0a5a39d4121760cc5/visualisation/coords_dariah_format.csv #
+# to contribute valid geographic coordinates in standard wkt-format                                                                                     #
+# cf. https://hackmd.io/@KaCeBe/qgis_csv_bombers_baedeker2                                                                                              #
+# Some placenames and coordinate numbers have been corrected, cf. attribute comment on changes                                                          #
+#########################################################################################################################################################
